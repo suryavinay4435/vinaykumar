@@ -8,7 +8,7 @@ public class Test {
 	
 
 	public static void main(String[] args) {
-		ProductService pss=new ProductService();
+		ProductService pss=new ProductService(); //updated
 		Scanner sc=new Scanner(System.in);
         System.out.println("plz enter how many products you want to buy");
         int k =sc.nextInt();
